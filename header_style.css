@@ -1,0 +1,13 @@
+header{
+  border-bottom: solid grey;
+  height:50px;
+}
+
+#search{
+  margin: 5px;
+}
+
+nav{
+  float:right;
+  margin: 5px;
+}

@@ -1,0 +1,35 @@
+body{
+  text-align:center;
+  background-color:#d9d9d9;
+}
+
+section{
+  border: solid #f2f2f2 thin;
+  border-radius:20px;
+  width:40%;
+  margin: 0 auto;
+}
+
+textarea{
+  border: grey;
+  border-radius:25px;
+}
+
+.profile-photos{
+  width: 6%;
+}
+
+.post-author{
+  border: solid #f2f2f2 thin;
+  text-align:left;
+}
+.post-photos{
+  width:99%;
+}
+.like-share-photos{
+  height:18px;
+}
+
+.like-share-buttons{
+  float:right;
+}
